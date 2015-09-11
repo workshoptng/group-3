@@ -31,17 +31,8 @@
           <td>OS X</td>
           <td>Details</td>
         </tr>
-         <tr>
-          <td>Andreas</td>
-          <td>Groß</td>
-          <td>andreas.gross@tngtech.com</td>
-          <td>Deutschland</td>
-          <td>Physik</td>
-          <td>Java, C++, Python</td>
-          <td>Ubuntu</td>
-          <td>Details</td>
-        </tr>
         <tr>
+<<<<<<< HEAD
           <td>Patrick</td>
           <td>Emmerich</td>
           <td>patrick.emmerich@tngtech.com</td>
@@ -57,8 +48,17 @@
           <td>martina.schaefer@tngtech.com</td>
           <td>Karlsruhe, D</td>
           <td>Physik</td>
+          <td>Java</td>
+          <td>Linux</td>
+=======
+          <td>Andreas</td>
+          <td>Groß</td>
+          <td>andreas.gross@tngtech.com</td>
+          <td>Deutschland</td>
+          <td>Physik</td>
           <td>Java, C++, Python</td>
           <td>Ubuntu</td>
+>>>>>>> 3117b7d975a5cdb6337dab0f31194eae356b522d
           <td>Details</td>
         </tr>
       </table>
